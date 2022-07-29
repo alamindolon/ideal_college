@@ -1,0 +1,28 @@
+footer{
+    margin-top: 50px;
+    height: 250px;
+    background-color: black;
+    width: 100%;
+}
+.footer-name h2{
+    color: white;
+    text-align: center;
+    padding-top: 50px
+    ;
+}
+nav a{
+    text-decoration: none;
+    color:gray;
+    margin-right: 20px;
+   
+}
+.nav_footer{
+    text-align: center;
+    margin-top: 15px;
+}
+hr{
+border:1px solid #d1d1d1;}
+
+.social-icon{
+    font-size: 25px;
+    }
